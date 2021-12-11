@@ -1,4 +1,4 @@
-# VPS SPEED TEST
+# 一键安装
 
 
 wget https://raw.githubusercontent.com/spysir/vpstest/main/bench.sh && chmod +x bench.sh && ./bench.sh
